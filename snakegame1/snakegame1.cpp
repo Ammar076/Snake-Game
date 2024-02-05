@@ -130,9 +130,9 @@ void Mode_0()
     }
     cout << endl << endl;
 
-    cout << "\t\tScore: " << score << endl;
+    cout << setw(50) << "Score: " << score << endl;
 
-    cout << "\t\tHighscore: " << High_Score1 << endl << endl;
+    cout << setw(45) << "Highscore: " << High_Score1 << endl << endl;
 }
 
 void Mode_1() {                                // Same as the above but prints random walls for mode 1 
@@ -230,9 +230,9 @@ void Mode_1() {                                // Same as the above but prints r
     }
     cout << endl << endl; 
     
-    cout << "Score: " << score << endl;
-    
-    cout << "Highscore: " << High_Score1 << endl << endl;
+    cout << setw(50) << "Score: " << score << endl;
+
+    cout << setw(45) << "Highscore: " << High_Score1 << endl << endl;
 }
 
 void Input() {
