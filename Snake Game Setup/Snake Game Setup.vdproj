@@ -527,7 +527,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Snake Game Setup"
         "ProductCode" = "8:{24AF2AA6-1F24-4058-8876-FDF9AE396E15}"
-        "PackageCode" = "8:{4FA87C0C-2CE2-457C-A7B6-44BE4E1894A3}"
+        "PackageCode" = "8:{E6D191C0-9447-475E-896C-4A1FA8DAE64E}"
         "UpgradeCode" = "8:{1290E562-772F-4E5A-8FBE-99DD2B8B0719}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -658,7 +658,7 @@
             "Target" = "8:_95AEA47DD0F74497A7843D12CBBD1099"
             "Folder" = "8:_E045580133F84889BC28494260DC7EE8"
             "WorkingFolder" = "8:_963383480AA14FFB915AEBC6B0235EF4"
-            "Icon" = "8:"
+            "Icon" = "8:_934349694E0644AC80CB5F6140116855"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_6CCCB25CD35D4DBB8CD2A814BADF4D17"
@@ -672,7 +672,7 @@
             "Target" = "8:_95AEA47DD0F74497A7843D12CBBD1099"
             "Folder" = "8:_91B00F10AC2C4A80AA5247E9D2F1C9C6"
             "WorkingFolder" = "8:_963383480AA14FFB915AEBC6B0235EF4"
-            "Icon" = "8:"
+            "Icon" = "8:_934349694E0644AC80CB5F6140116855"
             "Feature" = "8:"
             }
         }

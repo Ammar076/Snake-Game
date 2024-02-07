@@ -230,9 +230,9 @@ void Mode_1() {                                // Same as the above but prints r
     }
     cout << endl << endl; 
     
-    cout << setw(45) << "Score: " << score << endl;
+    cout << setw(49) << " " << "Score: " << score << endl;
 
-    cout << setw(50) << "Highscore: " << High_Score1 << endl << endl;
+    cout << setw(49) << " " << "Highscore: " << High_Score1 << endl << endl;
 }
 
 void Input() {
