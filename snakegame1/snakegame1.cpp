@@ -124,15 +124,15 @@ void Mode_0()
         cout << endl;
     }
 
-    for (int i = 0; i <= width; i++) // draws end of board
+    for (int i = 0; i <= width + 1; i++) // draws end of board
     {               
         cout << "#";
     }
     cout << endl << endl;
 
-    cout << setw(50) << "Score: " << score << endl;
+    cout << setw(45) << "Score: " << score << endl;
 
-    cout << setw(45) << "Highscore: " << High_Score1 << endl << endl;
+    cout << setw(50) << "Highscore: " << High_Score1 << endl << endl;
 }
 
 void Mode_1() {                                // Same as the above but prints random walls for mode 1 
@@ -230,9 +230,9 @@ void Mode_1() {                                // Same as the above but prints r
     }
     cout << endl << endl; 
     
-    cout << setw(50) << "Score: " << score << endl;
+    cout << setw(45) << "Score: " << score << endl;
 
-    cout << setw(45) << "Highscore: " << High_Score1 << endl << endl;
+    cout << setw(50) << "Highscore: " << High_Score1 << endl << endl;
 }
 
 void Input() {
